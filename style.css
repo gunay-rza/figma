@@ -1,0 +1,373 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+.umumi {
+    background-image: url(./image/Rectangle\ 1\ \(1\).png);
+    background-size: cover;
+    height: 800px;
+
+}
+
+.bawliq {
+    align-items: start;
+    justify-content: space-evenly;
+    display: flex;
+    width: 100%;
+    height: 80px;
+
+
+}
+
+.reng {
+    color: orange;
+}
+
+
+a {
+    text-align: center;
+    width: 200px;
+    margin: auto;
+    height: 30px;
+    color: orange;
+    font-size: 30px;
+    margin-left: 30px;
+    text-decoration: none;
+
+
+}
+
+a:hover {
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+}
+
+
+
+.logo {
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.ikinci {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    height: 800px;
+    display: block;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    margin-bottom: 80px;
+    margin-top: 30px;
+}
+
+
+
+
+h1 {
+    font-size: 70px;
+    left: 450px;
+    color: white;
+    margin-bottom: 80px;
+}
+
+.readMore {
+    width: 190px;
+    height: 40px;
+    color: white;
+    background-color: rgb(5, 5, 254);
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+p {
+    height: 50px;
+    padding-top: 40px;
+    color: white;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.sekil {
+    margin-top: 47px;
+    width: 45px;
+    height: 45px;
+}
+
+
+.esas {
+    width: 1690px;
+    display: flex;
+    height: 5000px;
+    justify-content: space-evenly;
+
+}
+
+.ilk {
+    width: 35%;
+    justify-content: space-evenly;
+
+
+    .son {
+        width: 55%;
+        justify-content: space-evenly;
+
+
+
+    }
+
+    h3 {
+        text-align: center;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        width: 400px;
+        font-size: 35px;
+    }
+
+    .qizh3 {
+        background-color: white;
+        width: 100%;
+        height: 700px;
+        display: block;
+        margin: auto;
+        margin-left: 50px;
+
+        border-radius: 5px;
+    }
+
+    .imgqiz {
+        justify-content: center;
+        height: 400px;
+        width: 450px;
+        justify-content: center;
+        margin-left: 40px;
+    }
+
+    .qiz {
+        width: 400px;
+        margin-left: 70px;
+        color: black;
+        text-align: justify;
+        font-size: 20px;
+    }
+
+    .categories {
+        height: 600px;
+        width: 100%;
+        margin-left: 50px;
+        margin-top: 40px;
+    }
+
+    .popu,
+    .resent {
+        width: 100%;
+        height: 100px;
+        color: black;
+        font-size: 35px;
+        text-align: center;
+        background-color: white;
+        margin-left: 50px;
+        padding-top: 20px;
+        margin-top: 30px;
+
+    }
+
+    .imgpopu {
+        width: 100%;
+        height: 500px;
+        margin-left: 50px;
+    }
+
+    .adam1,
+    .adam2 {
+        display: flex;
+        margin-bottom: 20px;
+    }
+
+    .adamlar,
+    .komputer {
+        width: 100%;
+        height: 330px;
+        margin-left: 50px;
+        gap: 40px;
+    }
+
+    h4 {
+        font-size: 25px;
+        margin-left: 15px;
+        text-align: center;
+        text-align: justify;
+    }
+
+    .img419 {
+        width: 100%;
+        margin-left: 50px;
+        height: 400px;
+    }
+
+    .komp1,
+    .komp2,
+    .komp3 {
+        display: flex;
+        margin-bottom: 20px;
+
+    }
+
+    .get {
+
+        height: 70px;
+        margin-top: 30px;
+        width: 100%;
+        color: black;
+        font-size: 35px;
+        text-align: center;
+
+        background-color: white;
+        margin-left: 50px;
+        padding-top: 20px;
+        margin-top: 30px;
+    }
+
+    .img943 {
+        width: 500px;
+        height: 400px;
+        margin-left: 50px;
+        margin-bottom: 50px;
+
+    }
+
+
+
+
+
+}
+
+.busOrange {
+    width: 100%;
+
+}
+
+h5 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.sonh1 {
+    color: black;
+    font-size: 25px;
+    margin-top: 20px;
+    text-align: center;
+
+
+}
+
+.bus {
+
+    padding-left: 80px;
+    width: 100%;
+    display: block;
+    gap: 30px;
+    margin: 5px;
+}
+
+.busGemi {
+    width: 100%;
+    display: flex;
+    padding-left: 200px;
+    height: 400px;
+    padding-right: 20px;
+    justify-content: space-evenly;
+}
+
+.bus2 {
+    display: block;
+    justify-content: space-evenly;
+    margin-left:
+
+}
+
+.gemi {
+    display: block;
+
+
+}
+
+.natures {
+    width: 800px;
+    display: block;
+    height: 600px;
+
+}
+
+.lorem {
+    color: black;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 180px;
+}
+
+.imgnature {
+    width: 800px;
+    height: 400px;
+    margin-left: 160px;
+}
+
+span {
+    color: orange;
+    text-decoration: underline;
+}
+
+.stol {
+    color: black;
+    background-image: url(./image\ 18.png);
+    background-size: cover;
+    width: 800px;
+    height: 300px;
+    padding-top: 30px;
+    margin-top: 80px;
+    font-size: 30px;
+    padding-left: 20px;
+    margin-left: 150px;
+}
+
+.qlobusSeher {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 70px;
+}
+
+.qlobus {
+    margin-right: 20px;
+    height: 300px;
+
+}
+
+.seher {
+    height: 300px;
+}
+
+.binaCeyran {
+    display: flex;
+    width: 800px;
+    padding-left: 100px;
+    margin-left: 40px;
+}
+
+.bina {
+    margin-right: 20px;
+}
